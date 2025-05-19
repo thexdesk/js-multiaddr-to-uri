@@ -21,7 +21,7 @@
     "standard": "^14.0.0"
   },
   "dependencies": {
-    "multiaddr": "^6.1.0"
+    "multiaddr": "^10.0.1"
   },
   "repository": {
     "type": "git",
